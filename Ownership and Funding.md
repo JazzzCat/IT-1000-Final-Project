@@ -1,6 +1,5 @@
 # Ownership and Funding
 
-**Funding**
 
 In August 2008, SpaceX accepted a gracious $20 million investment from Founders Fund. Founders Fund is a firm based in San Fransico and they invest across many stages such as aerospace, artificial intelligence, advanced computing, etc. The founder, Elon Musk, has around 70 million shares in his company and they are estimated to be worth around $875 million on private markets. Because of this, SpaceX was roughly vaulued at $1.3 billion as of February 2012. By Mayu 2012, SpaceX operated on a total funding of approximately $1 billion over its first decade of operation. 
 
