@@ -14,17 +14,9 @@ SpaceX stands for Space Exploration Technologies Corp. and has been becoming mor
 
 
 
-
-
-
-
-
-
-
-
 To be able to code the program used for the rockets, a very simplified code such as the FizzBuzz program must be able to be created with ease. Below is an example of the FizzBuzz program.
 
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
@@ -50,4 +42,4 @@ function fizzbuzz() {
 </div>
 </body>
 
-</html>
+</html>```
