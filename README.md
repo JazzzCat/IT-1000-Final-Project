@@ -9,7 +9,7 @@ SpaceX stands for Space Exploration Technologies Corp. and has been becoming mor
 
 * [Goals](Goals.md)
 * [Achievments](Achievements.md)
-* [Ownership/Funding](Ownership/Funding.md)
+* [Ownership & Funding](Ownership&Funding.md)
 * [Accidents](Accidents.md)
 
 
