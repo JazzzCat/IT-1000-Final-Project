@@ -31,25 +31,13 @@ To be able to code the program used for the rockets, a very simplified code such
 <title>Fizz Buzz</title>
 <script>
 
-var sum;
-var i;
-
-document.write("fizzbuzz", "<br>");
-
-sum = 0;
-for (i = 1; i <= 100; i = i +1){
-    if (i % 3 == 0 && i % 5 == 0){
-        document.write("fizzbuzz", "<br>");
-    }
-    else if (i % 3 == 0){
-        document.write("fizz", "<br>");
-    }
-    else if (i % 5 == 0){
-        document.write("buzz", "<br>");
-    }
-    else{
-        document.write(i, "<br>");
-    }
+function fizzbuzz() {
+	var display = document.getElementById('display');
+	var displayHTML = "";
+	for (i = 0; i < 100; i++) {
+		displayHTML += "<p>" + i + "</p>";
+	}
+	display.innerHTML = displayHTML;
 }
 
 </script>
@@ -63,4 +51,3 @@ for (i = 1; i <= 100; i = i +1){
 </body>
 
 </html>
-
