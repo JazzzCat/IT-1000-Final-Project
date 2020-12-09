@@ -1,6 +1,8 @@
 # Achievements
 
-The following are just some important achievements that SpaceX has made:
+Like many privately owned companies, SpaceX has made their fair share of achievements.
+
+**The following are just some important achievements that SpaceX has made:**
 
 * The first privately funded liquid-fueled rocket to reach orbit (Falcon 1 flight 4 on 28 September 2008).
 * The first privately developed liquid-fueled rocket to put a commercial satellite in orbit (RazakSAT on Falcon 1 flight 5 on 14 July 2009).
